@@ -1,3 +1,7 @@
 Tiina Tamkivi
 
+<<<<<<< HEAD
 Siin on ka muudatused
+=======
+Siin saab ka konflikti tekitada
+>>>>>>> 83e0679323a4c66d57749392a156ded6dcbdb777
